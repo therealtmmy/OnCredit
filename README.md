@@ -11,8 +11,8 @@ OnCredit is a repository that demonstrates the usage of the Fetch API in JavaScr
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/therealtmmy/FETCH-API.git`
-2. Navigate to the project directory: `cd FETCH-API`
+1. Clone the repository: `git clone https://github.com/therealtmmy/OnCredit.git`
+2. Navigate to the project directory: `cd OnCredit`
 
 ## Usage
 
