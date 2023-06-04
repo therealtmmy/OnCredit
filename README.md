@@ -1,8 +1,6 @@
 # OnCredit
 
-![GitHub](https://img.shields.io/github/license/therealtmmy/OnCredit)
-
-FETCH-API is a repository that demonstrates the usage of the Fetch API in JavaScript for making network requests. This project serves as a valuable resource for beginners and experienced developers alike, providing code examples and documentation on how to fetch data from remote APIs and handle responses asynchronously.
+OnCredit is a repository that demonstrates the usage of the Fetch API in JavaScript for making network requests. This project serves as a valuable resource for beginners and experienced developers alike, providing code examples and documentation on how to fetch data from remote APIs and handle responses asynchronously.
 
 ## Features
 
